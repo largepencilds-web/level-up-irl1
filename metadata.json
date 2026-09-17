@@ -1,0 +1,6 @@
+{
+  "name": "Level Up IRL",
+  "description": "Mobile social application with light RPG mechanics turning everyday real-life accomplishments into character progression, stats, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
